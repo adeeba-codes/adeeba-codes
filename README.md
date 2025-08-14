@@ -10,7 +10,7 @@
 - 🔭 Working on a **Student Management System** project using HTML, CSS, JavaScript, and Bootstrap
 - 💡 Always curious about how things work behind the scenes
 - 📚 I enjoy building projects that solve real-world problems
-- 📬 Reach me at: **adeeba@example.com** *(replace with your actual email)*
+- 📬 Reach me at: **adeebafaraz8@gmail.com** 
 
 ---
 
