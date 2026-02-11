@@ -6,8 +6,8 @@
 
 ### 🚀 About Me
 
-- 🎓 I'm currently learning **JavaScript**, **UI/UX Design**, and **Full-Stack Development**
-- 🔭 Working on a **Student Management System** project using HTML, CSS, JavaScript, and Bootstrap
+- 🎓 I'm currently learning **JAVA**, **DSA in java**, and **Backend Development**
+- 🔭 Working on a **Student Management System** project using HTML, CSS, JavaScript, and Backend mainly
 - 💡 Always curious about how things work behind the scenes
 - 📚 I enjoy building projects that solve real-world problems
 - 📬 Reach me at: **adeebafaraz8@gmail.com** 
@@ -18,6 +18,7 @@
 
 - 🧩 [Student Management System](https://github.com/adeeba-codes/student-management-system)  
   A web-based system to manage student data, attendance, grades, and more — made with Bootstrap and JavaScript.
+  I have also made other full stack projects such as fitTrack app.
 
 ---
 
